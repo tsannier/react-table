@@ -1,0 +1,25 @@
+{
+  "name": "react-table",
+  "version": "0.1.0",
+  "description": "Rich table component for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "table",
+    "component",
+    "sort",
+    "filter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsannier/react-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
